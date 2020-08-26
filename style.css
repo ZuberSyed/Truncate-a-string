@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+label,#num,#str{
+    margin:10px 10px;
+    font-size:16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#btn{
+    padding:4px 4px;
+    margin:10px 5px;
+    font-size:12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    border:none;
+    background-color: darkseagreen;
+    box-shadow: 1px 8px 8px 1px rgba(50,50,50,0.2);
+}
+#result{
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
